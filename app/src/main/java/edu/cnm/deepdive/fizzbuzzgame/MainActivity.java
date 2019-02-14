@@ -17,8 +17,8 @@ public class MainActivity extends AppCompatActivity {
   private TextView activeCorrectView;
   private TextView passiveCorrectView;
   private TextView incorrectView;
-  private int value;
   private Random rng;
+  private int value;
   private int activeCorrect;
   private int passiveCorrect;
   private int incorrect;
